@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `DeliveryApp`,
-    description: `Cotrol de delivery`,
+    title: `Rummore`,
+    description: `Audiovisual & Multimedia`,
     author: `@garbanv`,
   },
   plugins: [
